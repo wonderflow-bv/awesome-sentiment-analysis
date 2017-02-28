@@ -23,6 +23,7 @@ A curated list of Sentiment Analysis methods, implementations and misc.
     - [Ruby](#ruby)
     - [CSharp](#csharp)
 - [SaaS APIs](#saas-apis)
+- [Dataset](#dataset)
 - [Contributing](#contributing)
 
 <!-- /TOC -->
@@ -121,6 +122,10 @@ IBM Watson Alchemy Language [[web]](https://www.ibm.com/watson/developercloud/al
 Microsoft Cognitive Service [[web]](https://www.microsoft.com/cognitive-services/en-us/text-analytics-api)
 
 Aylien [[web]](https://developer.aylien.com/text-api-demo)
+
+## Dataset
+
+* [Sentiment Labelled Sentences](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)
 
 ## Contributing
 
